@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SAAFlightBookingApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec78fd278800311acca0caa9f6a2e814c963f89a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0235986e3c12b68d6236f1910e28cdacb420a678")]
 [assembly: System.Reflection.AssemblyProductAttribute("SAAFlightBookingApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SAAFlightBookingApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
