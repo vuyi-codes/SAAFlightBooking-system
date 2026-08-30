@@ -1,3 +1,4 @@
+
 -- 1. All passenger information, sorted alphabetically by last name
 SELECT
     PassengerID AS "Passenger ID",

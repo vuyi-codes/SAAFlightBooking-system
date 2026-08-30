@@ -6,7 +6,7 @@ class Program
     static void Main()
     {
         // Connection details for the local PostgreSQL database
-        string connectionString = "Host=localhost;Port=5432;Username=postgres;Password=YOUR_PASSWORD;Database=saa_flight_booking";
+        string connectionString = "Host=localhost;Port=5432;Username=postgres;Password=200427;Database=saa_flight_booking";
 
         try
         {
